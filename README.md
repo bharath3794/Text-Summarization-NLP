@@ -10,7 +10,7 @@ https://snap.stanford.edu/data/web-FineFoods.html
 
 ## Model Architecture
 #### Training
-<img src="https://github.com/bharath3794/Text-Summarization-NLP/blob/main/images/NLP_Training.jpg">
+<img src="https://github.com/bharath3794/Text-Summarization-NLP/blob/main/images/NLP_Training.jpg" width=75% height=75%>
 
 #### Testing
 <img src="https://github.com/bharath3794/Text-Summarization-NLP/blob/main/images/NLP_Testing.jpg" width=40% height=40%>
