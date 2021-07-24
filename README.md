@@ -5,4 +5,4 @@ Summarized customer reviews from Amazon Fine Food Reviews Dataset using Encoder-
 https://snap.stanford.edu/data/web-FineFoods.html
 
 #### Sample Data
-<img src="https://github.com/bharath3794/Text-Summarization-NLP/blob/main/images/dataset.PNG" width=50% height=50%>
+<img src="https://github.com/bharath3794/Text-Summarization-NLP/blob/main/images/dataset.PNG">
