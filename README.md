@@ -29,6 +29,7 @@ ROUGE-2: This checks for the bigram overlap of words between machine generated s
 ROUGE-L: This measures the longest matching sequence of words between machine generated summary and reference summary.
 
 #### Results
+Trained on 548,000 samples
 Tested on 2500 samples using ROUGE Implementation
 ##### Tested Example:-
 ###### Part of the original text: 
@@ -37,3 +38,4 @@ Tested on 2500 samples using ROUGE Implementation
 ``tasty but relatively high in calories``
 ###### Machine Generated Summary: 
 ``tasty but not a great value``
+<img src="https://github.com/bharath3794/Text-Summarization-NLP/blob/main/images/results.PNG" width=40% height=40%>
