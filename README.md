@@ -39,4 +39,4 @@ Tested on 2500 samples using ROUGE Implementation
 ###### Machine Generated Summary: 
 ``tasty but not a great value``
 #### Precision, Recall, F-1 Measure with ROUGE-1, ROUGE-2 and ROUGE-L
-<img src="https://github.com/bharath3794/Text-Summarization-NLP/blob/main/images/results.PNG" width=40% height=40%>
+<img src="https://github.com/bharath3794/Text-Summarization-NLP/blob/main/images/results.PNG" width=50% height=50%>
